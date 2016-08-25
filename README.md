@@ -1,4 +1,4 @@
-# ImageComparer
+# ImageComparer [![Build Status](https://travis-ci.org/Snakybo/TorchEngine.svg?branch=master)](https://travis-ci.org/Snakybo/TorchEngine)
 
 ## Usage
 1. Download the latest release from [here](https://github.com/Snakybo/ImageComparer/releases/latest)
