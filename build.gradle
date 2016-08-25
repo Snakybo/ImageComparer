@@ -1,0 +1,14 @@
+allprojects {
+    apply plugin: "java"
+	apply plugin: "application"
+    group = "com.snakybo.imagecomparer"
+    version = "1.0"
+	mainClassName = "com.snakybo.imagecomparer.ImageComparer"
+
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+}
+
+task wrapper(type: Wrapper) {
+    gradleVersion = "2.4"
+}
